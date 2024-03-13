@@ -1,3 +1,3 @@
 Das ist ein Beispiel für die Gruppenarbeit mit GIT.
 
-Merge-Conflict!!
+Dieses Beispiel symbolisiert einen Merge-Conflict.
