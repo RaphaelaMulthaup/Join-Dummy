@@ -1,1 +1,1 @@
-Das ist ein Beispiel für die Gruppenarbeit mit GIT.
+Das ist ein Beispiel für die erste Gruppenarbeit mit GIT.
